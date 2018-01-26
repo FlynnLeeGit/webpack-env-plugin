@@ -1,0 +1,23 @@
+{
+  "name": "webpack-env-plugin",
+  "version": "0.0.1",
+  "description": "emit a `env.json` in dist folder then you can use this after ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlynnLeeGit/webpack-env-plugin.git"
+  },
+  "keywords": [
+    "env",
+    "webpack"
+  ],
+  "author": "flynnlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlynnLeeGit/webpack-env-plugin/issues"
+  },
+  "homepage": "https://github.com/FlynnLeeGit/webpack-env-plugin#readme"
+}
